@@ -109,9 +109,9 @@ onMounted(() => {
                                    
                                    `;
   let content = `1.开始游戏`;
-  let content = `2.退出游戏`;
-  let content = `3.编辑地图`;
-  let content = `4.读取存档`;
+  let content2 = `2.退出游戏`;
+  let content3 = `3.编辑地图`;
+  let content4 = `4.读取存档`;
   console.info(
     `%c${title1} %c${title2} %c${content}`,
     styleTitle1,
