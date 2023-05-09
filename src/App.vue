@@ -100,14 +100,18 @@ onMounted(() => {
   let styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   let styleContent = "color: rgb(30,152,255);";
   let title1 = "無名の主页";
-  let title2 = `
- _____ __  __  _______     ____     __
-|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
-  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ / 
-  | | | |\\/| |\\___ \\  \\   /    \\   /  
- _| |_| |  | |____) |  | |      | |   
-|_____|_|  |_|_____/   |_|      |_|`;
-  let content = `\n\n版本: ${config.version}\n主页: ${config.home}\nGithub: ${config.github}`;
+  let title2 = ` _____   ___   _   _  _   __ _____ 
+|_   _| / _ \ | \ | || | / //  ___|
+  | |  / /_\ \|  \| || |/ / \ `--. 
+  | |  |  _  || . ` ||    \  `--. \
+  | |  | | | || |\  || |\  \/\__/ /
+  \_/  \_| |_/\_| \_/\_| \_/\____/ 
+                                   
+                                   `;
+  let content = `1.开始游戏`;
+  let content = `2.退出游戏`;
+  let content = `3.编辑地图`;
+  let content = `4.读取存档`;
   console.info(
     `%c${title1} %c${title2} %c${content}`,
     styleTitle1,
