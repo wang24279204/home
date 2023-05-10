@@ -6,7 +6,7 @@
         <a href="https://aqing.love">沐尘</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
-      
+      </div>
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />
       <span class="lrc-text">
