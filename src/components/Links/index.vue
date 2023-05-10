@@ -54,7 +54,7 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://aqingji.com/",
+    link: "http://aqingji.com/",
   },
   {
     icon: Eye,
