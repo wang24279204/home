@@ -33,10 +33,12 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   CompactDisc,
+  Blog,
   Cloud,
   Compass,
   Book,
   Fire,
+  Eye,
   Heart,
   Map,
 } from "@vicons/fa";
@@ -45,34 +47,34 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    icon: Map,
-    name: "地图",
-    link: "https://blog.imsyy.top/",
+    icon: Blog,
+    name: "博客",
+    link: "https://blog.aqing.love/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://wp.aqing.love/",
   },
   {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    icon: Eye,
+    name: "监控",
+    link: "https://jk.aqing.love/",
   },
   {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    icon: Fire,
+    name: "热点",
+    link: "https://fire.aqing.love/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://web.aqing.love/",
   },
   {
     icon: Heart,
     name: "宝贝回家",
-    link: "https://www.baobeihuijia.com/bbhj/",
+    link: "https://baby.aqing.love/",
   },
 ];
 
