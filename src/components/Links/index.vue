@@ -49,7 +49,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.aqing.love/",
+    link: "https://blog.aqing.love:10088",
   },
   {
     icon: Cloud,
@@ -74,7 +74,7 @@ let linksData = [
   {
     icon: Heart,
     name: "宝贝回家",
-    link: "https://baby.aqing.love/",
+    link: "https://www.baobeihuijia.com/",
   },
 ];
 
