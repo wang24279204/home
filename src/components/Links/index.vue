@@ -64,7 +64,7 @@ let linksData = [
   {
     icon: Fire,
     name: "热点",
-    link: "https://fire.aqing.love/",
+    link: "https://hot.aqing.love/",
   },
   {
     icon: Book,
