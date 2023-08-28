@@ -49,12 +49,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "http://blog.aqing.love:10088",
+    link: "http://blog.aqing.love",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "http://wp.aqing.love:10086",
+    link: "http://wp.aqing.love",
   },
   {
     icon: Eye,
